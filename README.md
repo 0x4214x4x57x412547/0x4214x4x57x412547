@@ -5,6 +5,6 @@
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 
 
-![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20-9cf)
+![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French-9cf)
 
 
