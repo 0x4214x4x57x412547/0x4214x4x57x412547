@@ -1,5 +1,6 @@
 ##  hello  Welcome to my profile .
-! [all text](https://funnyfrenzy.nyc3.digitaloceanspaces.com/FunzyPicsCDN/assets/pins/6723507/707854001495385707_.gif)
+
+! [al text](https://funnyfrenzy.nyc3.digitaloceanspaces.com/FunzyPicsCDN/assets/pins/6723507/707854001495385707_.gif)
 
 
 
