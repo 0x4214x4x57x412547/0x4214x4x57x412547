@@ -7,7 +7,7 @@
 ![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20and%20English-9cf)
 
 
-- [💻 Windows](#-os-)  - [💻 VM-UbuntuOS](#-os-)
+- [💻 Windows](#-os-)  [💻 VM-UbuntuOS](#-os-)
 
 
 
