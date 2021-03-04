@@ -1,6 +1,6 @@
 ##  hello  Welcome to my profile .
 
-![image](https://funnyfrenzy.nyc3.digitaloceanspaces.com/FunzyPicsCDN/assets/pins/6723507/707854001495385707_.gif)
+![image](https://cdn.discordapp.com/attachments/807706687955402794/817098819597762560/77623b371e848422be30e8042a2796fb.gif)
 
 
 <a href="https://discord.gg/jfT8RmwswH"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a> <a
