@@ -1,6 +1,6 @@
 ##  hello  Welcome to my profile .
 
-![image](https://media0.giphy.com/media/l2SpMqlCJY2J75r5S/giphy.gif?cid=ecf05e47vhd8kj7qhutiwzohkvdkmwmf2ak5qylcdphh63r6&rid=giphy.gif)
+![image](https://cdn.discordapp.com/attachments/826919118048854037/828455478416769024/tenor_4.gif)
 
 
 <a href="https://discord.gg/jfT8RmwswH"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a> <a
