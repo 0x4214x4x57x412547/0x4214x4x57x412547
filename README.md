@@ -1,6 +1,6 @@
 ##  hello  Welcome to my profile .
 
-![image](https://thumbs.gfycat.com/ArcticGrandioseAustraliansilkyterrier-small.gif)
+![image](https://media.discordapp.net/attachments/833074452300038165/834589734620889139/original_2.gif)
 
 
 <a href="https://discord.com/invite/vd9vTvvk3U"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a> <a
