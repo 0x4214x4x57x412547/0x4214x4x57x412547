@@ -1,6 +1,6 @@
 ##  hello  Welcome to my profile .
 
-![image](https://imgur.com/a/2NR3y0f)
+
 
 
 <a href="https://discord.com/invite/vd9vTvvk3U"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a> <a
