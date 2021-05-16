@@ -1,4 +1,4 @@
-##  kali@kali:~$ sudo apt-get install cofee .
+##  kali@espadash:~$ sudo apt-get install cofee .
 
 
 https://discord.bio/p/espadash
