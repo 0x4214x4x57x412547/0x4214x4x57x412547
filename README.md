@@ -2,7 +2,7 @@
 </p>
 
 
-<img align='right' src="https://cdn.discordapp.com/attachments/843960150716448771/845035296801685514/GiffinOverlay_1.gif" width="230">
+<img align='right' src="https://imgur.com/a/Vz3qARi" width="230">
 
 ```shell
 #!/bin/bash
