@@ -2,7 +2,6 @@
 </p>
 
 
-<img align='right' src="https://cdn.discordapp.com/avatars/774645254665535488/a_8d5814ea9e726ee066bd4c966ef88b12.gif?size=2048" width="230">
 
 ```shell
 #!/bin/bash
