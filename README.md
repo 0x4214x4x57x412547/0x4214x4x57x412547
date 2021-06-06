@@ -7,7 +7,7 @@
 ```shell
 #!/bin/bash
 
-echo "Hi my name is espadash and i like the programming as well as the cyber security but I am also a beginner X)"
+echo "Hi my nickname is espadash and i like programming as well as cybersecurity but i am also a newbie"
 
 espadash@root:~$ apt-get install cofee
                      .___             .__     
