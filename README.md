@@ -4,11 +4,10 @@
 <img align='right' src="https://media.tenor.com/images/dad77f1452951f4cf586395209598978/tenor.gif" width="230">
 
 
-```shell
-#!/bin/bash
+```
 
-echo "Hi my nickname is espadash and i like programming as well as cybersecurity but i am also a newbie"
 
+printy@root:~$ echo Hi my nickname is Pr1ntyb0y and i like programming as well as cybersecurity but i am also a newbie
 printy@root:~$ apt-get install cofee
  
  $$$$$$$\            $$\            $$\               
