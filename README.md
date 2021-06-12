@@ -1,7 +1,7 @@
 ─────────────────────────────────────
 </p>
 
-<img align='right' src="https://media.discordapp.net/attachments/807706687955402794/847198442076897280/94097_9Vr4pYUB1.jpg" width="230">
+<img align='right' src="https://media.tenor.com/images/dad77f1452951f4cf586395209598978/tenor.gif" width="230">
 
 
 ```shell
