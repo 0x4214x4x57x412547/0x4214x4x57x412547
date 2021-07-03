@@ -1,7 +1,7 @@
 ─────────────────────────────────────
 </p>
 
-<img align='right' src="https://media.tenor.com/images/dad77f1452951f4cf586395209598978/tenor.gif" width="230">
+<img align='right' src="https://cdn.discordapp.com/attachments/825222045834936340/860920732153413652/image0-1.gif" width="230">
 
 
 ```
